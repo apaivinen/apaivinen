@@ -1,6 +1,6 @@
 ### Greetings traveller
 
-So this mess what you see is all my handiwork. Trying to keep everything up to date but there's quite a lot work to do 🤔
+So this mess what you see is all my handiwork. Trying to keep improve everything up to date but there's quite a lot work to do 🤔 especially when i've had like 6 month break on updating repositories but still been improving stuff 😬
 
 My daily bread comes from working with Microsoft technologies. Mainly working with M365 collaboration tools but there's general M365 & Azure management & "Development" here and there. Sometimes I even explore the ancient servers to figure what's going on 🙃
 
