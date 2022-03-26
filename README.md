@@ -11,7 +11,8 @@ some sertificate goals for year 2022:
 * SC-400: Microsoft Information Protection Administrator
 * MS-500: Microsoft 365 Security Administration
 
-some tech keywords what describes my monthly routine: Logic App/Power automate, Powershell, Azure AD, SharePoint(online & on-premises), Teams
+some tech keywords what describes my monthly routine
+	![Teams word cloud keywords poll](/img/keywords_faded.png)
 
 On my free time I like to tinker with home automation🤖, play video games🎮 and enjoy the nature🍃.
 
