@@ -1,4 +1,4 @@
-### Greetings traveller
+## Greetings traveller
 
 So this mess what you see is all my handiwork. Trying to keep improve everything up to date but there's quite a lot work to do 🤔 especially when i've had like 6 month break on updating repositories but still been improving stuff 😬
 
@@ -6,14 +6,14 @@ My daily bread comes from working with Microsoft technologies. Mainly working wi
 
 I'm currently studying the security aspect of M365, ***Microsoft Sentinel***, Microsoft Defender and Identity management.
 some sertificate goals for year 2022:
-* 📌SC-200: Microsoft Security Operations Analyst <!-- ✅ -->
+* SC-200: Microsoft Security Operations Analyst 📌 <!-- ✅ -->
 * SC-300: Microsoft Identity and Access Administrator
 * SC-400: Microsoft Information Protection Administrator
 * MS-500: Microsoft 365 Security Administration
 
 some tech keywords what describes my monthly routine: Logic App/Power automate, Powershell, Azure AD, SharePoint(online & on-premises), Teams
 
-On my free time I like to tinker with home automation🤖, play video games🎮 and enjoy the nature🍃. 
+On my free time I like to tinker with home automation🤖, play video games🎮 and enjoy the nature🍃.
 
 Motto is "If it can be automated then you should automate it."
 
