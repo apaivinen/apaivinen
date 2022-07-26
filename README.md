@@ -7,13 +7,15 @@ My daily bread comes from working with Microsoft technologies. Mainly working wi
 I'm currently studying the security aspect of M365, ***Microsoft Sentinel***, Microsoft Defender and Identity management.
 some sertificate goals for year 2022:
 * SC-200: Microsoft Security Operations Analyst 📌 <!-- ✅ -->
+* MS-500: Microsoft 365 Security Administration
+* AZ-500: AZ-500: Microsoft Azure Security Technologies
 * SC-300: Microsoft Identity and Access Administrator
 * SC-400: Microsoft Information Protection Administrator
-* MS-500: Microsoft 365 Security Administration
 
+<!--
 some tech keywords what describes my work monthly routine
 ![Teams word cloud keywords poll](/img/keywords_faded.png)
-
+-->
 On my free time I like to tinker with home automation🤖, play video games🎮 and enjoy the nature🍃.
 
 Motto is "If it can be automated then you should automate it."
