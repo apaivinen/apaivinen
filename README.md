@@ -1,11 +1,14 @@
-## Greetings traveller
+## Greetings traveller 🖖
 
-So this mess what you see is all my handiwork. Trying to keep improve everything up to date but there's quite a lot work to do 🤔 especially when i've had like ~~6 month~~ loong break on updating repositories but still been improving stuff 😬
+So, this mess what you see is all my handiwork. Trying to keep improve everything up to date but there's quite a lot work to do 🤔 especially when i've had like ~~6 month~~ loong break on updating repositories but still been improving stuff 😬
 
-My daily bread comes from working with Microsoft technologies. I'm mainly working with M365 security but so often I also need to figure out Azure, M365 Collaboration and anything under the Microsoft product umbrella. Sometimes I even explore the ancient servers to figure what's going on 🙃
+Currently my daily bread comes from working with Microsoft technologies. I am mainly working with M365 security but so often I also need to figure out solutions build on top of Azure, M365 Collaboration tools, automations and anything & everything under the Microsoft cloud umbrella. Sometimes I even explore the ancient servers to figure what the h*ck is going on 🙃🫠
 
-I'm currently studying the security aspect of M365, ***Microsoft Sentinel***, Microsoft Defender and Identity management.
-some sertificate goals for year ~~2022~~ ~~2023~~ 2024: 
+In my previous role I was working with M365 collaboration tools building SharePoint Online & Teams solutions (codeless) and automations with Power Automate and Azure Logic Apps. I even maintained and developed solutions for SharePoint 2007 (RIP), 2010 (RIP), 2013 (RIP) farms. For over an year I was leading team of 7 members who were responsible of upkeep & maintenance of sharepoint farms and developing M365 collaboration solutions. 
+And before someone gets an idea, no. I am not looking or available for opportunities regarding to On-premises SharePoint or M365 Collaboration tools. 😂
+
+I'm still studying the security aspect of M365, ***Microsoft Sentinel***, Microsoft Defender XDR and Identity management.
+some sertificate goals for year ~~2022~~ ~~2023~~ 2024:  _(yeah work keeps me busy and the same list continues to 2024 🤭)_
 * SC-200: Microsoft Security Operations Analyst 📌 <!-- ✅ -->
 * MS-500: Microsoft 365 Security Administration
 * AZ-500: AZ-500: Microsoft Azure Security Technologies
@@ -16,7 +19,7 @@ some sertificate goals for year ~~2022~~ ~~2023~~ 2024:
 some tech keywords what describes my work monthly routine
 ![Teams word cloud keywords poll](/img/keywords_faded.png)
 -->
-On my free time I like to tinker with home automation and other tech stuff🤖, play video games🎮 and enjoy the nature🍃.
+On my free time I like to tinker with home automation and other tech stuff🤖, play video games🎮 and enjoy the nature🍃 & Pizza 🍕
 
 
 <details>
