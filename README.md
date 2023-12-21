@@ -2,7 +2,7 @@
 
 So, this mess what you see is all my handiwork. Trying to keep improve everything up to date but there's quite a lot work to do 🤔 especially when i've had like ~~6 month~~ loong break on updating repositories but still been improving stuff 😬
 
-Currently my daily bread comes from working with Microsoft technologies. I am mainly working with M365 security but so often I also need to figure out solutions build on top of Azure, M365 Collaboration tools, automations and anything & everything under the Microsoft cloud umbrella. 💪  
+Currently my daily bread comes from working with Microsoft technologies. I am mainly working with M365 security but so often I also need to figure out solutions build on top of Azure, M365 Collaboration tools, automations and anything & everything under the Microsoft cloud umbrella 💪  
 Sometimes I even explore the ancient servers to figure what the h*ck is going on 🙃🫠
 
 In my previous role I was working with M365 collaboration tools building SharePoint Online & Teams solutions (codeless) and automations with Power Automate and Azure Logic Apps. I even maintained and developed solutions for SharePoint 2007 (RIP), 2010 (RIP), 2013 (RIP) farms. For over an year I was leading team of 7 members who were responsible of upkeep & maintenance of sharepoint farms and developing M365 collaboration solutions. 
