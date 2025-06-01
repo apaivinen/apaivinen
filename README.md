@@ -14,7 +14,7 @@ some sertificate goals for year ~~2022~~ ~~2023~~ 2024:  _(yeah work keeps me bu
 * MS-500: Microsoft 365 Security Administration
 * AZ-500: AZ-500: Microsoft Azure Security Technologies
 * SC-300: Microsoft Identity and Access Administrator
-* SC-400: Microsoft Information Protection Administrator
+* SC-401: Microsoft Information Protection Administrator ✅
 
 <!--
 some tech keywords what describes my work monthly routine
