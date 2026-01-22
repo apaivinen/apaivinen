@@ -10,11 +10,12 @@ And before someone gets an idea, No 🚫. I am not looking nor be available for 
 
 I'm still studying the security aspect of M365, ***Microsoft Sentinel***, Microsoft Defender XDR and Identity management.
 some sertificate goals for year ~~2022~~ ~~2023~~ ~~2024~~ 2025:  _(yeah work keeps me busy and the same list continues to 2025 🤭)_
-* SC-200: Microsoft Security Operations Analyst 📌 <!-- ✅ -->
+* SC-200: Microsoft Security Operations Analyst ✅ (11/2025)
 * MS-500: Microsoft 365 Security Administration
 * AZ-500: AZ-500: Microsoft Azure Security Technologies
 * SC-300: Microsoft Identity and Access Administrator
-* SC-401: Microsoft Information Protection Administrator ✅ (22.05.2025)
+* SC-401: Microsoft Information Protection Administrator ✅ (05/2025)
+* SC-100: Microsoft Cybersecurity Architect 📌
 
 <!--
 some tech keywords what describes my work monthly routine
