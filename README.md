@@ -9,7 +9,7 @@ In my previous role I was working with M365 collaboration tools building SharePo
 And before someone gets an idea, No 🚫. I am not looking nor be available for opportunities regarding to On-premises SharePoint or M365 Collaboration tools. 😂
 
 I'm still studying the security aspect of M365, ***Microsoft Sentinel***, Microsoft Defender XDR and Identity management.
-some sertificate goals for year ~~2022~~ ~~2023~~ ~~2024~~ 2025:  _(yeah work keeps me busy and the same list continues to 2025 🤭)_
+some sertificate goals for year ~~2022~~ ~~2023~~ ~~2024~~ ~~2025~~ 2026:  _(yeah work keeps me busy and the same list continues to 2026 🤭)_
 * SC-200: Microsoft Security Operations Analyst ✅ (11/2025)
 * MS-500: Microsoft 365 Security Administration
 * AZ-500: AZ-500: Microsoft Azure Security Technologies
